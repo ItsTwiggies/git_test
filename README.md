@@ -1,3 +1,2 @@
 # git_test
-Hello GitHub!
-Hello Odin!!!
+Testing git on the unix shell. Very cool!
